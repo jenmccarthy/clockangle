@@ -11,4 +11,4 @@ def clockangle(time)
   result_angle = angle.abs
   
 end
-clockangle("12:00")
+clockangle("6:59")
